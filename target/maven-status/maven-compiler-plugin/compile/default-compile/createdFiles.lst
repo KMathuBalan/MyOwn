@@ -1,0 +1,8 @@
+generic\BaseTest.class
+Scripts\TestInvalidLogin.class
+generic\IAutoConstant.class
+generic\Lib.class
+Scripts\HomePageValidation.class
+PomPage\HomePage.class
+Scripts\TestValidLogin.class
+PomPage\LoginPage.class
